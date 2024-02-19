@@ -1,4 +1,4 @@
-### Hello! I'm Edo
+# Hello! I'm Edo
 
 - 🔭 I’m currently making a videogame in pico-8
 - 🌱 I’m currently learning about lua and pico-8
