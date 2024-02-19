@@ -17,4 +17,4 @@
 <a href="https://github.com/edopalomino">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edopalomino&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>p>
+</p>
