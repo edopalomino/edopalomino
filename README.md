@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello! I'm Edo
 
-<!--
-**edopalomino/edopalomino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently making a videogame in pico-8
+- 🌱 I’m currently learning about lua and pico-8
+- ✍️ I building small proyects
 
-Here are some ideas to get you started:
+<!-- GitHub Analytics -->
+## &nbsp;GitHub Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://github.com/yosoybartsolo">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edopalomino&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
